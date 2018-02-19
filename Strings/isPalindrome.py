@@ -1,4 +1,4 @@
-
+#Checks if input string is a palindrom
 #Author: Sameera Lanka
 
 def isPalindrome(string):
